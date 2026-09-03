@@ -1,6 +1,6 @@
-# Mini Teramind
+# Mini Employee Tracking Platform
 
-A small but realistic employee activity monitoring and analytics platform inspired by Teramind. Demonstrates end-to-end full-stack skills with NestJS, PostgreSQL, and Next.js in a Turborepo monorepo.
+A small but realistic employee activity monitoring and analytics platform.
 
 ## What it does
 
@@ -11,7 +11,7 @@ A small but realistic employee activity monitoring and analytics platform inspir
 ## Monorepo Structure
 
 ```
-mini-teramind/
+mini-employee-tracking-platform/
 ├── apps/
 │   ├── api/              # NestJS backend — REST API + PostgreSQL + Prisma
 │   └── web/              # Next.js dashboard (employees, alerts, charts)
